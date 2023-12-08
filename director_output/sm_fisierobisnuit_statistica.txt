@@ -1,0 +1,7 @@
+nume legatura: sm_fisierobisnuit
+dimensiune legatura: 14
+dimensiune fisier: 99
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: RWX
+
